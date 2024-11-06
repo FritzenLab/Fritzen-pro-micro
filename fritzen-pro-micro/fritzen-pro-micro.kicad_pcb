@@ -609,6 +609,7 @@
 		(property "Value" "Conn_01x12_Pin"
 			(at 0 30.27 360)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "4045395c-1a82-4ffd-b40a-9b405e08ed37")
 			(effects
 				(font
@@ -986,6 +987,7 @@
 		(property "Value" "Conn_01x12_Pin"
 			(at 0 30.27 360)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "2391f7e9-edf1-40fc-9733-7dc8ab72ab79")
 			(effects
 				(font
